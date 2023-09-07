@@ -1,6 +1,6 @@
 function openDoor(){
     document.getElementById("imgStatus").src = "open.jpg";
-    document.getElementById("doorStatus").innerHTML = "Marry Chistmas!";
+    document.getElementById("doorStatus").innerHTML = "Merry Chistmas!";
     document.getElementById('mp3File').play();
 }
 function closeDoor(){
